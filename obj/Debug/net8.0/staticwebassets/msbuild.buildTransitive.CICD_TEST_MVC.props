@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/CICD_TEST_MVC.props" />
+</Project>
